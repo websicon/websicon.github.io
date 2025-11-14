@@ -1,0 +1,18 @@
+title: Websicon Software Development
+description: Full-Stack Development, Mobile Apps, CRM, SEO & AI Automation
+
+theme: jekyll-theme-minimal
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Contact: contact.md
+  - Services:
+      - Web Development: services/web-development.md
+      - Mobile App Development: services/mobile-app-development.md
+      - Perfex CRM Customisation: services/perfex-crm-customisation.md
+      - SEO Services: services/seo-services.md
+      - AI Automation: services/ai-automation.md
+      - Backend API Development: services/backend-api-development.md
+      - E-commerce Development: services/ecommerce-development.md
+      - Google Maps Optimisation: services/google-maps-optimisation.md
